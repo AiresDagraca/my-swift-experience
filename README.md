@@ -1,2 +1,2 @@
-# my-swift-experience
+# My Swift Experience
 My Journey Through Swift
